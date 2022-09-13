@@ -1,4 +1,8 @@
- // java 
+ // java
+//  Problem 3:
+//  Write a program to find if a string is a palindrome. Print true if the string is a palindrome and print false if it is
+ // not.
+ 
 public class questionThree {
     public static void main(String[] args) {
 
